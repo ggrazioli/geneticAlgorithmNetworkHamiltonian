@@ -5,13 +5,18 @@ Genetic algorithm for automated network Hamiltonian model parameterization
 
 This code implements the genetic algorithm described in the article:
 
-"A Genetic Algorithm for Automated Parameterization of Network Hamiltonian 
+"Genetic Algorithm for Automated Parameterization of Network Hamiltonian 
                     Models of Amyloid Fibril Formation"
 
 by: Gianmarc Grazioli, Andy Tao, Inika Bhatia, and Patrick Regan 
 
-currently under review at Journal of Physical Chemistry B - American Chemical Society
-preprint: https://chemrxiv.org/engage/chemrxiv/article-details/64a3d048ba3e99daef7c671a
+Published in the Journal of Physical Chemistry B (American Chemical Society): 
+https://pubs.acs.org/doi/full/10.1021/acs.jpcb.3c07322 
+
+Citation: 
+Grazioli, G., Tao, A., Bhatia, I., & Regan, P. (2024). Genetic algorithm for automated 
+parameterization of network hamiltonian models of amyloid fibril formation. 
+The Journal of Physical Chemistry B, 128(8), 1854-1865.
 
 This main function carries out automated discovery of network Hamiltonian models
 that can self-assemble into the 2-ribbon amyloid fibril topological structure.
